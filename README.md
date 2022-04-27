@@ -20,3 +20,9 @@ as the file exceeds the free data storage limit.
 ## Acknowledgement:
 Any license regarding research was not indicated either on the website nor in the dictionary. 
 If any violation or misuse of the dataset occurs, the repository would be deleted. 
+
+
+## Reference and Citation:
+Some of the codes were inspired from the web. Sources linked below:
+[UIUC IS445 Prep Notebook Week 7](https://uiuc-ischool-dataviz.github.io/is445_spring2022/nbv.html?notebook_name=%2Fis445_spring2022%2Fweek07%2Fprep_notebook_week07_part1.ipynb)
+
