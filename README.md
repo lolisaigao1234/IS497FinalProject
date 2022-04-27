@@ -8,6 +8,7 @@ of ram on your computer. Preferably use a 16GB or larger ram to run the program.
 
 ## Dataset:
 [Taxi Records developed by TLC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+<br>
 Users should download the January 2019, January 2020, January 2021 dataset before running the 
 program. The dataset should be placed in the data folder. I could not save the dataset on GitHub
 as the file exceeds the free data storage limit. 
