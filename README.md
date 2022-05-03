@@ -1,6 +1,7 @@
 # IS497FinalProject
 
 This repo was designed to hold the codes in IS 497 final project.
+The index.ipynb is the full project. The IS445FinalProjectPart3.ipynb is the shorter version. 
 
 ## Requirements:
 The dataset is fairly large, thus without much optimization, the program would took around 8 Gigabytes 
